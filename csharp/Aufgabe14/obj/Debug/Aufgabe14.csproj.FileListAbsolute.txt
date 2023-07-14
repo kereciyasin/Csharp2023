@@ -1,0 +1,13 @@
+C:\Users\vmadmin\Desktop\C#\Ubüng1.1\Aufgabe14\bin\Debug\Aufgabe14.exe.config
+C:\Users\vmadmin\Desktop\C#\Ubüng1.1\Aufgabe14\bin\Debug\Aufgabe14.exe
+C:\Users\vmadmin\Desktop\C#\Ubüng1.1\Aufgabe14\bin\Debug\Aufgabe14.pdb
+C:\Users\vmadmin\Desktop\C#\Ubüng1.1\Aufgabe14\obj\Debug\Aufgabe14.csproj.AssemblyReference.cache
+C:\Users\vmadmin\Desktop\C#\Ubüng1.1\Aufgabe14\obj\Debug\Aufgabe14.csproj.SuggestedBindingRedirects.cache
+C:\Users\vmadmin\Desktop\C#\Ubüng1.1\Aufgabe14\obj\Debug\Aufgabe14.csproj.CoreCompileInputs.cache
+C:\Users\vmadmin\Desktop\C#\Ubüng1.1\Aufgabe14\obj\Debug\Aufgabe14.exe
+C:\Users\vmadmin\Desktop\C#\Ubüng1.1\Aufgabe14\obj\Debug\Aufgabe14.pdb
+C:\Users\kerec\Desktop\Github\csharp\Aufgabe14\obj\Debug\Aufgabe14.csproj.AssemblyReference.cache
+C:\Users\kerec\Desktop\Github\csharp\Aufgabe14\obj\Debug\Aufgabe14.csproj.SuggestedBindingRedirects.cache
+C:\Users\kerec\Desktop\Github\csharp\Aufgabe14\obj\Debug\Aufgabe14.csproj.CoreCompileInputs.cache
+C:\Users\kerec\Desktop\Github\csharp\Aufgabe14\obj\Debug\Aufgabe14.exe
+C:\Users\kerec\Desktop\Github\csharp\Aufgabe14\obj\Debug\Aufgabe14.pdb

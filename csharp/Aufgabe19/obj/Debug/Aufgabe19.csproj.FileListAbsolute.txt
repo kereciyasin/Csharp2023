@@ -1,0 +1,8 @@
+C:\Users\vmadmin\Desktop\C#\Ubüng1.1\Aufgabe19\bin\Debug\Aufgabe19.exe.config
+C:\Users\vmadmin\Desktop\C#\Ubüng1.1\Aufgabe19\bin\Debug\Aufgabe19.exe
+C:\Users\vmadmin\Desktop\C#\Ubüng1.1\Aufgabe19\bin\Debug\Aufgabe19.pdb
+C:\Users\vmadmin\Desktop\C#\Ubüng1.1\Aufgabe19\obj\Debug\Aufgabe19.csproj.AssemblyReference.cache
+C:\Users\vmadmin\Desktop\C#\Ubüng1.1\Aufgabe19\obj\Debug\Aufgabe19.csproj.SuggestedBindingRedirects.cache
+C:\Users\vmadmin\Desktop\C#\Ubüng1.1\Aufgabe19\obj\Debug\Aufgabe19.csproj.CoreCompileInputs.cache
+C:\Users\vmadmin\Desktop\C#\Ubüng1.1\Aufgabe19\obj\Debug\Aufgabe19.exe
+C:\Users\vmadmin\Desktop\C#\Ubüng1.1\Aufgabe19\obj\Debug\Aufgabe19.pdb

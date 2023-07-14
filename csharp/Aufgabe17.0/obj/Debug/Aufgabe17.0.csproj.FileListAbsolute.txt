@@ -1,0 +1,6 @@
+C:\Users\vmadmin\Desktop\C#\Ubüng1.1\Aufgabe17.0\obj\Debug\Aufgabe17.0.csproj.AssemblyReference.cache
+C:\Users\vmadmin\Desktop\C#\Ubüng1.1\Aufgabe17.0\obj\Debug\Aufgabe17.0.csproj.SuggestedBindingRedirects.cache
+C:\Users\vmadmin\Desktop\C#\Ubüng1.1\Aufgabe17.0\obj\Debug\Aufgabe17.0.csproj.CoreCompileInputs.cache
+C:\Users\kerec\Desktop\Github\csharp\Aufgabe17.0\obj\Debug\Aufgabe17.0.csproj.AssemblyReference.cache
+C:\Users\kerec\Desktop\Github\csharp\Aufgabe17.0\obj\Debug\Aufgabe17.0.csproj.SuggestedBindingRedirects.cache
+C:\Users\kerec\Desktop\Github\csharp\Aufgabe17.0\obj\Debug\Aufgabe17.0.csproj.CoreCompileInputs.cache
